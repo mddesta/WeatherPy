@@ -1,7 +1,21 @@
 
 # WeatherPy
 
-I created a Python script to analyze and visualize the weather of 500+ cities and investigate the relationship between latitude and weather attributes. Below are the graphs created based on the data obtained from the OpenWeatherMap API. 
+### Background
+
+Created a Python script to analyze and visualize the weather of 500+ cities and investigate the relationship between latitude and weather attributes. Below are the graphs created based on the data obtained from the OpenWeatherMap API. 
+
+### Technologies
+
+* Jupyter Notebook 
+* Pandas
+* Visualization 
+* numpy 
+* requests
+* json
+* time
+
+### Visualization
 
 1. Latitude vs. Temperature Plot:
 
